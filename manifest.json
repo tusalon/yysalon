@@ -1,20 +1,20 @@
 {
-  "name": "Divine touch",
-  "short_name": "Divine",
+  "name": "YY salón",
+  "short_name": "YY",
   "description": "Uñas y belleza - Tu espacio de cuidado personal",
-  "start_url": "/divine-touch/",
-  "scope": "/divine-touch/",
+  "start_url": "/yy-saln/",
+  "scope": "/yy-saln/",
   "display": "standalone",
   "background_color": "#ec4899",
   "theme_color": "#ec4899",
   "icons": [
     {
-      "src": "/divine-touch/icons/icon-192x192.png",
+      "src": "/yy-saln/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/divine-touch/icons/icon-512x512.png",
+      "src": "/yy-saln/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
